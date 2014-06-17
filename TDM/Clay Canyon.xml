@@ -57,10 +57,10 @@
 </kits>
 <spawns>
 	<spawn team="red" kit="red" yaw="0">
-		<cuboid min="458,116,495" max="460,118,497"/>
+		<cuboid min="-32,5,51" max="-34,5,53"/>
 	</spawn>	
 	<spawn team="blue" kit="blue" yaw="-180">
-		<cuboid min="460,116,428" max="458,118,426"/>
+		<cuboid min="-34,5,-15" max="-32,5,-17"/>
 	</spawn>
 	<default yaw="90">
 		<cylinder base="508,171,462" height="1" radius="2"/>
